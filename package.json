@@ -1,0 +1,14 @@
+{
+  "name": "neuralinverse-latest",
+  "version": "2.1.3",
+  "description": "A powerful and flexible tool",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "start": "node index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense"
+}
